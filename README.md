@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
 <picture>
-  <source style="width:506px;" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&theme=blue-green">
+  <source style="width:506px;" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&theme=blue-green&bg_color=0d1117">
   <img style="width:506px;" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff">
 </picture>
 
