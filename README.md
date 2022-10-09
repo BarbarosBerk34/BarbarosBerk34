@@ -5,8 +5,8 @@
 <div align="center">
   <div style="display: flex; flex-direction: column;">
     <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&theme=blue-green&bg_color=0d1117&card_width=400">
-  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff&card_width=400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&theme=blue-green&bg_color=0d1117&card_width=496">
+  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff&card_width=496">
 </picture>
 
 <picture>
