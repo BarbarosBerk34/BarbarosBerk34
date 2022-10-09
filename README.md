@@ -3,7 +3,12 @@
 <p>I have been interested in technology since childhood. I develop various projects to take myself one step further in this sector.</p>
 
 <div style="display: flex;">
-<img style="width:473px" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff" alt="My GitHub Stats"/>
+<!--img style="width:473px" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff" alt="My GitHub Stats"/>-->
+<picture style="width:473px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=0D11A5&icon_color=0D11A5&text_color=0D11A5&bg_color=000000">
+  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff">
+</picture>
+
 
 <img style="width:335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 
