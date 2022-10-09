@@ -4,13 +4,13 @@
 
 <div style="display: flex;">
 <picture>
-  <source style="width:473px;" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&theme=blue-green">
-  <img style="width:473px;" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff">
+  <source style="width:506px;" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&theme=blue-green">
+  <img style="width:506px;" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff">
 </picture>
 
 <picture>
-  <source style="width:335px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
-  <img style="width:335px" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-light">
+  <source style="width:506px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
+  <img style="width:506px" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-light">
 </picture>
 </div>
 
