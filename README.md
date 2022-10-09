@@ -14,9 +14,10 @@
 </picture>
 </div>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=BarbarosBerk34&theme=minimal" alt="My GitHub Contribution Graph"/>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=BarbarosBerk34&theme=xcode" alt="My GitHub Contribution Graph"/>
-
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=BarbarosBerk34&theme=react-dark">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=BarbarosBerk34&theme=minimal" alt="My GitHub Contribution Graph"/>
+</picture>
 
 <!--
 **BarbarosBerk34/BarbarosBerk34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
