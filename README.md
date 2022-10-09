@@ -15,7 +15,7 @@
 </div>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=BarbarosBerk34&theme=minimal" alt="My GitHub Contribution Graph"/>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=BarbarosBerk34&theme=minimal-dark" alt="My GitHub Contribution Graph"/>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=BarbarosBerk34&theme=xcode" alt="My GitHub Contribution Graph"/>
 
 
 <!--
