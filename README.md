@@ -9,8 +9,8 @@
 </picture>
 
 <picture>
-  <source style="width:475px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&bg_color=0d1117&card_width=475">
-  <img style="width:475px" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-light&card_width=475">
+  <source style="width:425px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&bg_color=0d1117&card_width=425">
+  <img style="width:425px" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-light&card_width=425">
 </picture>
 </div>
 
