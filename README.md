@@ -9,7 +9,7 @@
 </picture>
 
 <picture>
-  <source style="width:506px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
+  <source style="width:506px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&bg_color=0d1117">
   <img style="width:506px" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarbarosBerk34&show_icons=true&locale=en&layout=compact&theme=chartreuse-light">
 </picture>
 </div>
