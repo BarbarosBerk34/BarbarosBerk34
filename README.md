@@ -3,9 +3,9 @@
 <p>I have been interested in technology since childhood. I develop various projects to take myself one step further in this sector.</p>
 
 <div align="center">
-  <div style="display: flex;flex-direction: column;">
+  <div style="display: flex; flex-direction: column;">
     <picture>
-  <sourcemedia="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&theme=blue-green&bg_color=0d1117&card_width=200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&theme=blue-green&bg_color=0d1117&card_width=200">
   <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarbarosBerk34&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff&card_width=200">
 </picture>
 
